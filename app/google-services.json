@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "95003829999",
+    "project_id": "cureya-5d2f2",
+    "storage_bucket": "cureya-5d2f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95003829999:android:8081bdb6d381689b411d1a",
+        "android_client_info": {
+          "package_name": "com.example.cureyakotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95003829999-alqf577iig3n3748qo4l67idgam927d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cureyakotlin",
+            "certificate_hash": "9d25f955477139e5c4567c3d224427532b093784"
+          }
+        },
+        {
+          "client_id": "95003829999-f5garht6cc9lh8mkrqjsnjlfi51olnkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIHynB1v6Js76L-sJzIHulw6o8H4M4ERM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95003829999-f5garht6cc9lh8mkrqjsnjlfi51olnkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
